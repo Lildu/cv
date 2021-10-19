@@ -1,0 +1,41 @@
+h1
+{
+    /*font-family: ;*/
+    text-align: center;
+    color: rgb(130, 75, 15);
+    background-color: rgb(63, 59, 54);
+}
+P
+{
+    text-align: center;
+
+}
+
+h2{
+    text-align: center;
+}
+ul{
+    /*text-align: center;*/
+}
+body {
+    background-color: rgb(63, 59, 54);
+    font-family: Georgia;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 5px solid #824b0f;
+
+}
+/*head {
+    color: rgb(130, 75, 15);
+}*/
+a:hover{
+    color:red;
+}
+a:visited{
+    color: rgb(176, 104, 9);
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
