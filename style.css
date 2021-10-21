@@ -38,3 +38,17 @@ img {
     display: block;
     margin: 0 auto;
 }
+
+div img {
+    display: inline-block;
+    width: 64px;
+    height: 64px;
+    margin-right: 50px;
+}
+
+div:after {
+    content: '';
+    display: inline-block;
+    width: 40%;
+
+}
