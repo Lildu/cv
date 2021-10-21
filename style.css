@@ -8,9 +8,9 @@ h1
     color: rgb(130, 75, 15);
 
 }
-h2
+.image1
 {
-    text-align: center;
+    object-position: 15% 15% ;
 }
 
 ul{
