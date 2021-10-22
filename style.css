@@ -20,7 +20,7 @@ ul{
 body {
     background-color: rgb(63, 59, 54);
     font-family: Georgia;
-    width: 600px;
+    width: 700px;
     margin: 0 auto;
     padding: 0 20px 20px 20px;
     border: 5px solid #824b0f;
@@ -44,7 +44,7 @@ div img {
     display: inline-block;
     width: 64px;
     height: 64px;
-    margin-right: 50px;
+    margin-right: 70px;
 }
 
 div:after {
